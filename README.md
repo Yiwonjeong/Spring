@@ -14,7 +14,7 @@
 - Speaker.java
 
 ### sub2
-- Computer.java
+- Computer.java: DI 실습하기 (생성자, 세터 인젝션, 필드 인젝션)
 - CPU.java
 - HDD.java
 - Main.java
