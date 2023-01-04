@@ -9,6 +9,10 @@
 	<h3>Spring MVC</h3>
 	<h1>greeting</h1>
 	
+	<a href="/Ch04/hello">hello</a>
+	<a href="/Ch04/greeting">greeting</a>
+	<a href="/Ch04/welcome">welcome</a>
+	
 	
 </body>
 </html>

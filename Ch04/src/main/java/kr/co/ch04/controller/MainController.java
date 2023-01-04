@@ -24,5 +24,16 @@ public class MainController {
 		return "/greeting";
 	}
 	
+	@GetMapping("/redirect")
+	public String redirect() {
+		return "redirect:/user1/register";
+	}
+	
+	// forward 주소 바뀌지 않음
+	@GetMapping("/forward")
+	public String forward() {
+		return "forward:/user2/register";
+	}
+	
 	
 }
